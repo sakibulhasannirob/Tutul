@@ -8,8 +8,6 @@ Md Anis: 30 Days 1500 tk Time Jul26> Key: 1-0-5-2-3-u-0-_-a-5-2-3
 
 Badhan Badhan: 30 Days 1000 tk Time Jul26> Key: 1-0-2-5-9-u-0-_-a-2-5-9
 
-Saiful Islam: 15 Days 500 tk Time Jul25> Key: 1-0-2-5-0-u-0-_-a-2-5-0
-
 দুঁলাঁ ভাঁইঁツ: 30 Days 1000 tk Time Jul26> Key: 1-0-2-9-8-u-0-_-a-2-9-8
 
 Fazla Rabby: 30 Days 1500 tk Time Jul26> Key: 1-0-2-8-6-u-0-_-a-2-8-6
@@ -32,19 +30,11 @@ Sha Mim: 10 Day 400 tk Time Aug1> Key: 1-0-5-3-8-u-0-_-a-5-3-8
 
 MOHAMMED MAHIM UDDIN: 30 Days 800 tk Time Aug4> Key: 1-0-2-2-9-u-0-_-a-2-2-9
 
-MD AMIR ISLAM: 30 Days 1500tk Time Jun+Jul25> Key: 1-0-3-4-4-u-0-_-a-3-4-4
-
-MD Ishtiaq: 15 Days 500 tk Time Jul25> Key: 1-0-5-0-5-u-0-_-a-5-0-5
-
-Md Billal Mia: 15 Days 500 tk Time Jul25> Key: 1-0-3-2-4-u-0-_-a-3-2-4
-
 Tamim: 30 Days 800 tk Time Aug10> Key: 1-0-7-3-0-u-0-_-a-7-3-0
 
 Joy Mondol: 15 Days 500 tk Time Jul27> Key: 1-0-2-4-7-u-0-_-a-2-4-7
 
 Blank id: 15 Days 500 tk Time Jyl27> Key: 1-0-4-4-6-u-0-_-a-4-4-6
-
-Ayan: 13 Days 500 tk Time Jul25> Key: 1-0-5-7-8-u-0-_-a-5-7-8
 
 Muhammad Nadim: 30 Days 1500 tk Aug13> Key: 1-0-3-4-5-u-0-_-a-3-4-5
 
@@ -60,8 +50,6 @@ No Bi Ta: 15 Days 500 tk Time Jul30> Key: 1-0-9-0-3-u-0-_-a-9-0-3
 
 Muhammad Robin: 15 Days 500 tk Time Jul30> Key: 1-0-1-6-1-u-0-_-a-1-6-1
 
-Aɭoŋe Hɩɱeɭ: 10 Days 400 tk Time Jul25> Key: 1-0-3-9-7-u-0-_-a-3-9-7
-
 Nafis: 15 Days 500 tk Time Jul30> Key: 1-0-3-0-0-u-0-_-a-3-0-0
 
 Nimay Roy: 30 Days 1500 tk Time Aug15> Key: 1-0-4-3-7-u-0-_-a-4-3-7
@@ -72,7 +60,7 @@ Nazmus Sakib: 15 Days 500 tk Time Jul>31> Key: 1-0-2-2-1-u-0-_-a-2-2-1
 
 Blank id: 15 Days 500 tk Time Jul31> Key: 1-2-2-2-7-u-0-_-a-2-2-2-7
 
-Nazmul Hossain Arnob: 30 Days Time Aug21> Key: 1-0-3-9-1-u-0-_-a-3-9-1
+Nazmul Hossain Arnob: 30 Days Time Aug16> Key: 1-0-3-9-1-u-0-_-a-3-9-1
 
 MOHAMMAD NIL: 15 Days 500 tk Time Jul31> Key: 1-0-4-2-2-u-0-_-a-4-2-2
 
