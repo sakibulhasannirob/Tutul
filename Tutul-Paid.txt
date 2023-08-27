@@ -7,8 +7,6 @@ Dx: 1-0-2-1-9-u-0-_-a-2-1-9
 
 RS Rashel I'st Back : 1500 tk Time Aug14> Key: 1-0-1-4-1-u-0-_-a-1-4-1
 
-Akter Miah: 30 Days 1500 tk Time Aug27> Key: 1-0-2-4-3-u-0-_-a-2-4-3
-
 Shanto: 30 Days 1500 tk Time Aug29> Key: 1-0-2-0-6-u-0-_-a-2-0-6
 
 Noyon Pradhan: 30 Days 1500 tk Time Sep2> key: 1-0-2-4-7-u-0-_-a-2-4-7
@@ -27,10 +25,6 @@ Dng Durjoy Sarker: 30 Days 1500 tk Time Sep11> Key: 1-0-3-8-7-u-0-_-a-3-8-7
 
 মোঃ আবির ইসলাম: 30 Days 800 tk Time Sep11> Key: 1-0-2-5-9-u-0-_-a-2-5-9
 
-Shakil ヽ・　o.O: 15 Days 450 tk Time Aug27> Key: 1-0-2-5-6-u-0-_-a-2-5-6
-
-Blank id: 15 Days 500 tk Time Aug27> Key: 1-0-4-4-6-u-0-_-a-4-4-6
-
 Swapnil Sarker: 15 Days 500 tk Time Aug28> Key: 1-0-3-4-1-u-0-_-a-3-4-1
 
 ADNAN ヽ: 15 Days 500 tk Time Aug28> Key: 1-0-2-7-7-u-0-_-a-2-7-7
@@ -44,8 +38,6 @@ S　O　J　I　 B　ツ: 15 Days 500 tk Time Aug28> key: 1-0-2-6-1-u-0-_-a-2-6-
 Mr. Fahad: 15 Days 500 tk Time Aug28> Key: 1-0-1-9-9-u-0-_-a-1-9-9
 
 Md Junayed Vai: 15 Days 500 tk Time Aug28> Key: 1-0-5-7-2-u-0-_-a-5-7-2
-
-Asif Mia: 15 Days 500 tk Time Aug27> Key: 1-0-2-3-7-u-0-_-a-2-3-7
 
 Rashed Khan: 15 Days 500 tk Time Aug29> Key: 1-0-2-6-0-u-0-_-a-2-6-0
 
@@ -122,6 +114,8 @@ Rahat //②⓿⓶: 15 Days 500 tk Time Sep10> Kay: 1-0-2-5-1-u-0-_-a-2-5-1
 গল্প লেখক: 15 Days 500 tk Time Sep10> Key: 1-0-2-2-8-u-0-_-a-2-2-8
 
 Fʌʑɭʌ Rʌɓɓƴ: 30 Days 800 tk Time Sep26> Key: 1-0-3-1-6-u-0-_-a-3-1-6
+
+Anowar Hossain Rakib: 15 Days 500 tk Time Sep11> Key: 1-0-4-8-2-u-0-_-a-4-8-2
 """"""""""""""""""""""
 
 Rajib Bhai
