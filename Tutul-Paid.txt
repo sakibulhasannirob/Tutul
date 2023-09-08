@@ -9,8 +9,6 @@ RS Rashel I'st Back : 1500 tk Time Aug14> Key: 1-0-1-4-1-u-0-_-a-1-4-1
 
 W　A　S　I　 M　ツ: 10 Daya 400 tk Time Aug14> Key:  100tk Pai
 
-MD Refat: 30 Days 1500 tk Time Sep6> Key: 1-0-1-2-9-u-0-_-a-1-2-9
-
 Issan Taloqdar: 30 Days 1500 tk Time Sep11> Key: 1-0-3-4-3-u-0-_-a-3-4-3
 
 Dng Durjoy Sarker: 30 Days 1500 tk Time Sep11> Key: 1-0-3-8-7-u-0-_-a-3-8-7
@@ -42,12 +40,6 @@ MD Manik Hassan Mahim: 30 Days 800 tk Time Sep19> Key: 1-0-2-7-2-u-0-_-a-2-7-2
 Shakil Mia: 30 Days 1500 tk Time Sep20> Key: 1-0-1-1-6-u-0-_-a-1-1-6
 
 Arman Hossain: 15 Days 500 tk Time Sep13> Key: 1-0-2-9-2-u-0-_-a-2-9-2
-
-Ruhul Sheikh: 15 Days 500 tk Time Sep8> Key: 1-0-2-7-4-u-0-_-a-2-7-4
-
-𝐃𝐄𝐕𝐈𝐋 \__: 15 Days 500 tk Time Sep8> Key: 1-1-1-5-5-u-0-_-a-1-1-5-5
-
-Niloy Rahman: 15 Days 500 tk Time Sep8> Key: 1-0-6-3-9-u-0-_-a-6-3-9
 
 Md Mizanur Rahman: 15 Days 500 tk Time Sep10> Key: 1-0-4-5-5-u-0-_-a-4-5-5
 
@@ -93,7 +85,7 @@ Md Uzzal Hossain: 15 Days 500 tk Time Sep14> Key: 1-0-4-2-3-u-0-_-a-4-2-3
 
 লাঁভাঁরঁ 卝 Boyヅ: 15 Days 500 tk Time Sep14> Key: 1-0-2-8-1-u-0-_-a-2-8-1
 
-𝐃𝐚𝐯𝐢𝐝 𝐌𝐮𝐧𝐧𝐚: 30 Days 900 tk Time Oct1> Key: 1-0-2-2-6-u-0-_-a-2-2-6
+𝐃𝐚𝐯𝐢𝐝 𝐌𝐮𝐧𝐧𝐚: 30 Days 900 tk Time Oct1> Key: 
 
 Rashel Sheikh: 15 Days 500 tk Time Sep16> Key: 1-0-2-7-5-u-0-_-a-2-7-5
 
@@ -102,6 +94,8 @@ MD Juned Ahmad: 15 Days 500 tk Time Sep18> Key: 1-0-3-3-9-u-0-_-a-3-3-9
 রাজ মাহমুদ: 30 Days 1500 tk Time Oct7> Key: 1-0-2-7-0-u-0-_-a-2-7-0
 
 Blank id: 15 Days 500 tk Time Sep22> Key: 1-0-3-0-9-u-0-_-a-3-0-9
+
+Älêx Èbãdøťĥ: 30 Days 1500 tk Time Oct8> Key: 1-0-2-5-0-u-0-_-a-2-5-0
 """"""""""""""""""""""
 
 Rajib Bhai
