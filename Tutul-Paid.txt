@@ -33,8 +33,6 @@ Shanto: 30 Days 800 tk Time Sep30> Key: 1-0-2-0-6-u-0-_-a-2-0-6
 
 𝐃𝐚𝐯𝐢𝐝 𝐌𝐮𝐧𝐧𝐚: 30 Days 900 tk Time Oct1> Key: 
 
-Rashel Sheikh: 15 Days 500 tk Time Sep16> Key: 1-0-2-7-5-u-0-_-a-2-7-5
-
 MD Juned Ahmad: 15 Days 500 tk Time Sep18> Key: 1-0-3-3-9-u-0-_-a-3-3-9
 
 রাজ মাহমুদ: 30 Days 1500 tk Time Oct7> Key: 1-0-2-7-0-u-0-_-a-2-7-0
@@ -78,6 +76,8 @@ Blank id: 15 Days 500 tk Time Sep30> Key: 1-2-2-4-7-u-0-_-a-2-2-4-7
 Tanbir Khan: 15 Days 450 tk Time Sep30> Key: 1-0-3-3-2-u-0-_-a-3-3-2
 
 Illıllı Asif Illıllı K: 15 Days 500 tk Oct1> Key: 1-0-2-1-5-u-0-_-a-2-1-5
+
+Chaudhary Hamim Hamim: 30 Days 800tk Time Oct16> Key: 1-0-3-4-4-u-0-_-a-3-4-4
 """"""""""""""""""""""
 
 Rajib Bhai
